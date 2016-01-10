@@ -1,5 +1,4 @@
-# ShippingCalculator.py
-# by Teresa Le
+# Shipping Calculator.py
 # Uses a function to determine total cost of online order
 #########################################################
 # Shipping:                                            ##
